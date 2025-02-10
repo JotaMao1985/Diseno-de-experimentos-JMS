@@ -1,12 +1,12 @@
-# My Book
+# Regresión lineal
 
-This cookiecutter creates a simple boilerplate for a Jupyter Book.
+Este notebook pretende ser una guía para estudiantes de estadística y ciencia de datos interesados en estudiar los conceptos relacionados con regresión lineal.
 
-## Usage
+## Uso
 
 ### Building the book
 
-If you'd like to develop and/or build the My Book book, you should:
+Si quieres desarrollar y/o construir el libro, deberías :
 
 1. Clone this repository
 2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
@@ -24,7 +24,7 @@ For GitHub and GitLab deployment specifically, the [cookiecutter-jupyter-book](h
 
 ## Contributors
 
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/captainjupyter/my-book/graphs/contributors).
+Por ahora Javier Mauricio Sierra
 
 ## Credits
 
