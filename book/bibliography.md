@@ -1,5 +1,5 @@
-# Bibliography
+# Bibliografia
 
-```{bibliography}
+```{references}
 
 ```

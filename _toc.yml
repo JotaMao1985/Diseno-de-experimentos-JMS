@@ -4,8 +4,9 @@
 format: jb-book
 root: index
 chapters:
-  - file: book/markdown
-  - file: book/notebooks
+  - file: book/Regresión e Inferencia
+  - file: book/Lecture Linear Regression
+  - file: book/Lecture Linear Regression Parte II
   - file: book/bibliography
 
 # Or you organize the TOC by parts
